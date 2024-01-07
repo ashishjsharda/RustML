@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 rusty-machine = "0.5.4"
-rulinalg = "0.4.2"
+rulinalg = "0.4.1"
